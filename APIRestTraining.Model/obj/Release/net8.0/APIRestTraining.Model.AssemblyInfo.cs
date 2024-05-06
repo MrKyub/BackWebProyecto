@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIRestTraining.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+794dfa2d5bda01426a6ffe6a5fff7841b40d3c1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIRestTraining.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIRestTraining.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
