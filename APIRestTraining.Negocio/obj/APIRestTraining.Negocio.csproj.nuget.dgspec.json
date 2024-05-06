@@ -1,0 +1,238 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Negocio\\APIRestTraining.Negocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\APIRestTraining.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\APIRestTraining.Datos.csproj",
+        "projectName": "APIRestTraining.Datos",
+        "projectPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\APIRestTraining.Datos.csproj",
+        "packagesPath": "C:\\Users\\AlexisNavarroMendoza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlexisNavarroMendoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Model\\APIRestTraining.Model.csproj": {
+                "projectPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Model\\APIRestTraining.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Model\\APIRestTraining.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Model\\APIRestTraining.Model.csproj",
+        "projectName": "APIRestTraining.Model",
+        "projectPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Model\\APIRestTraining.Model.csproj",
+        "packagesPath": "C:\\Users\\AlexisNavarroMendoza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlexisNavarroMendoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Negocio\\APIRestTraining.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Negocio\\APIRestTraining.Negocio.csproj",
+        "projectName": "APIRestTraining.Negocio",
+        "projectPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Negocio\\APIRestTraining.Negocio.csproj",
+        "packagesPath": "C:\\Users\\AlexisNavarroMendoza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AlexisNavarroMendoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\APIRestTraining.Datos.csproj": {
+                "projectPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\APIRestTraining.Datos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

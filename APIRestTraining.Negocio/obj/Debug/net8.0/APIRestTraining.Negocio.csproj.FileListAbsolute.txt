@@ -1,0 +1,17 @@
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Negocio.deps.json
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Negocio.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Negocio.pdb
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.AssemblyInfoInputs.cache
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.AssemblyInfo.cs
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\refint\APIRestTraining.Negocio.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.pdb
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\ref\APIRestTraining.Negocio.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Datos.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Model.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Datos.pdb
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Model.pdb
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.csproj.AssemblyReference.cache
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestT.1893F53B.Up2Date

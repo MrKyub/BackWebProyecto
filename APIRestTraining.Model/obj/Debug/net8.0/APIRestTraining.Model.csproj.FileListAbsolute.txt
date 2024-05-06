@@ -1,0 +1,12 @@
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\bin\Debug\net8.0\APIRestTraining.Model.deps.json
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\bin\Debug\net8.0\APIRestTraining.Model.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\bin\Debug\net8.0\APIRestTraining.Model.pdb
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.AssemblyInfoInputs.cache
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.AssemblyInfo.cs
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.csproj.CoreCompileInputs.cache
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\refint\APIRestTraining.Model.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.pdb
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\ref\APIRestTraining.Model.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Model\obj\Debug\net8.0\APIRestTraining.Model.csproj.AssemblyReference.cache

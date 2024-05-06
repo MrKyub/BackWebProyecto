@@ -1,0 +1,6 @@
+@APIRestTraining.API_HostAddress = http://localhost:5032
+
+GET {{APIRestTraining.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
