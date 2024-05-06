@@ -13,3 +13,4 @@ C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Vis
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Datos\obj\Debug\net8.0\refint\APIRestTraining.Datos.dll
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Datos\obj\Debug\net8.0\APIRestTraining.Datos.pdb
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Datos\obj\Debug\net8.0\ref\APIRestTraining.Datos.dll
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Datos\obj\Debug\net8.0\APIRestTraining.Datos.sourcelink.json

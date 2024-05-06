@@ -15,3 +15,4 @@ C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Vis
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\bin\Debug\net8.0\APIRestTraining.Model.pdb
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.csproj.AssemblyReference.cache
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestT.1893F53B.Up2Date
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.Negocio\obj\Debug\net8.0\APIRestTraining.Negocio.sourcelink.json

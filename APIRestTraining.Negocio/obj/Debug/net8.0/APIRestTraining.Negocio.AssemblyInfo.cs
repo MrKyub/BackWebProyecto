@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIRestTraining.Negocio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+794dfa2d5bda01426a6ffe6a5fff7841b40d3c1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85121e2927e80eba2df05137ee48e3d5fd58f0af")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIRestTraining.Negocio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIRestTraining.Negocio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

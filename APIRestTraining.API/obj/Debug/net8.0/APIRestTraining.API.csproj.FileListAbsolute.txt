@@ -51,3 +51,4 @@ C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Vis
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.API\obj\Debug\net8.0\APIRestTraining.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AlexisNavarroMendoza\Documents\Programas Trainee Developer\Sesion 5\Visual Studio 2022\APIRestTraining\APIRestTraining.API\obj\Debug\net8.0\APIRestTraining.API.sourcelink.json

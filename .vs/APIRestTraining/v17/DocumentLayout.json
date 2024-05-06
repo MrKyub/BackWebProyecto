@@ -1,12 +1,58 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E198B430-CD93-4EBF-B8D9-A3039E81F8EA}|APIRestTraining.API\\APIRestTraining.API.csproj|c:\\users\\alexisnavarromendoza\\documents\\programas trainee developer\\sesion 5\\visual studio 2022\\apiresttraining\\apiresttraining.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E198B430-CD93-4EBF-B8D9-A3039E81F8EA}|APIRestTraining.API\\APIRestTraining.API.csproj|solutionrelative:apiresttraining.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0793C68-239B-4491-A03E-20B05B5E1143}|APIRestTraining.Datos\\APIRestTraining.Datos.csproj|c:\\users\\alexisnavarromendoza\\documents\\programas trainee developer\\sesion 5\\visual studio 2022\\apiresttraining\\apiresttraining.datos\\colegio\\implementacion\\alumnosdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0793C68-239B-4491-A03E-20B05B5E1143}|APIRestTraining.Datos\\APIRestTraining.Datos.csproj|solutionrelative:apiresttraining.datos\\colegio\\implementacion\\alumnosdatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.API\\appsettings.json",
+              "RelativeDocumentMoniker": "APIRestTraining.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.API\\appsettings.json",
+              "RelativeToolTip": "APIRestTraining.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T19:18:02.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnosDataMapper.cs",
+              "DocumentMoniker": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "RelativeDocumentMoniker": "APIRestTraining.Datos\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "ToolTip": "C:\\Users\\AlexisNavarroMendoza\\Documents\\Programas Trainee Developer\\Sesion 5\\Visual Studio 2022\\APIRestTraining\\APIRestTraining.Datos\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "RelativeToolTip": "APIRestTraining.Datos\\Colegio\\Implementacion\\AlumnosDataMapper.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:09:14.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
